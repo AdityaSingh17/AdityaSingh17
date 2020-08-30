@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-I am a final year student at [Sir M. Visvesvaraya Institute of Technology](https://www.sirmvit.edu/), Bangalore, pursuing Bachelor of Engineering (Computer Science Engineering). I am currently the Senior Placement Coordinator of my college and mentor for Data Science at [Bellatrix Data Community](https://github.com/bellatrixdatacommunity/).
+I am a final year student at [Sir M. Visvesvaraya Institute of Technology](https://www.sirmvit.edu/), Bangalore, pursuing Bachelor of Engineering (Computer Science Engineering). I am currently the Senior Placement Coordinator of my college and Data Science & Analytics intern at [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).
 
 - 🔭 I’m currently working on: Machine Learning and Data Science.
 - 🌱 I’m currently learning: Natural Language Processing.
