@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://adityasingh17.github.io/sitemap.xml
